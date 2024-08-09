@@ -10,4 +10,4 @@ Meu nome é Alehandro Ferreira Souza
 
 00001131109491sp@al.educacao.sp.gov.br
 
-![descrição do GIF](link GIF do Tenor)
+
